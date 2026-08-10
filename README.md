@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Ayesha! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61DAFB&center=true&vcenter=true&width=600&lines=Information+Technology+Student;Java+%26+Spring+Boot+Developer;Building+AI+Mock+Interview+Platform" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61DAFB&center=true&vcenter=true&width=600&lines=Information+Technology+Student;Java+%26+Spring+Boot+Developer;Welcome+To+My+Github" alt="Typing SVG" />
 </p>
 
 <!-- 🌐 Connect & Social Badges -->
