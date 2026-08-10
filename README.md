@@ -16,14 +16,6 @@
 
 ---
 
-### 🏆 Achievements & Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophies.vercel.app/?username=Ayesha3315&theme=onedark&column=4&margin-w=15" alt="Ayesha's GitHub Trophies" />
-</p>
-
----
-
 ### 👩‍💻 About Me
 
 * 🎓 Studying **Information Technology**
