@@ -1,25 +1,38 @@
 <h1 align="center">Hi there, I'm Ayesha! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vcenter=true&width=500&lines=Information+Technology+Student;Java+%26+Spring+Boot+Developer;Building+AI+Mock+Interview+Platform;Welcome+to+my+GitHub!+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61DAFB&center=true&vcenter=true&width=600&lines=Information+Technology+Student;Java+%26+Spring+Boot+Developer;Building+AI+Mock+Interview+Platform" alt="Typing SVG" />
 </p>
 
+<!-- 🌐 Connect & Social Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ayesha3315&color=61dafb&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <a href="www.linkedin.com/in/ayesha-fatima-3662bb402" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ayesha.fatima3315@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+---
+
+### 🏆 Achievements & Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophies.vercel.app/?username=Ayesha3315&theme=onedark&column=4&margin-w=15" alt="Ayesha's GitHub Trophies" />
 </p>
 
 ---
 
 ### 👩‍💻 About Me
 
-* 🎓 **Education:** Pursuing Information Technology Degree
-* 🚀 **Passionate About:** Java Backend Development, Spring Boot, & Full-Stack Apps
-* 🛠️ **Currently Building:** [AI-Mock-Interview-Platform](https://github.com/Ayesha3315/AI-Mock-Interview-Platform)
-* 💡 **Goals:** Crafting scalable backend microservices and intuitive user web experiences
+* 🎓 Studying **Information Technology**
+* 🚀 Passionate about **Java**, **Spring Boot**, and **Web Development**
+* 🛠️ Currently building full-stack applications and backend microservices
 
 ---
 
-### 💻 Tech Stack & Tools
+### 💻 Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -34,15 +47,9 @@
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Activity & Streak
 
 <p align="left">
   <img src="https://streak-stats.demolab.com/?user=Ayesha3315&theme=dark&timezone=Asia/Kolkata" alt="Ayesha's GitHub Streak" width="48%" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ayesha3315&layout=compact&theme=dark" alt="Top Languages" width="48%" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
 </p>
