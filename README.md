@@ -42,6 +42,6 @@
 ### 📊 GitHub Activity & Streak
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com/?user=Ayesha3315&theme=dark&timezone=Asia/Kolkata" alt="Ayesha's GitHub Streak" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayesha3315&theme=dark&timezone=Asia/Kolkata" alt="Ayesha's GitHub Streak" width="48%" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ayesha3315&layout=compact&theme=dark" alt="Top Languages" width="48%" />
 </p>
