@@ -42,8 +42,9 @@
 ### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayesha3315&theme=dark" alt="GitHub Streak Stats" width="48%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ayesha3315&layout=donut&theme=dark" alt="Most Used Languages" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayesha3315&theme=dark&card_width=400" alt="GitHub Streak Stats" height="195" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ayesha3315&layout=donut&theme=dark" alt="Most Used Languages" height="195" />
 </p>
 
 <p align="center">
