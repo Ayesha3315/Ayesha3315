@@ -4,37 +4,44 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61DAFB&center=true&vcenter=true&width=600&lines=Information+Technology+Student;Java+%26+Spring+Boot+Developer;Welcome+To+My+Github" alt="Typing SVG" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ayesha3315&label=Profile views&color=0e75b6&style=flat" alt="Ayesha3315" /> </p>
-
-- 🔭 I'm currently working on ** I'm a Full-Stack Developer passionate about building end-to-end web applications with robust backends and responsive frontends.  **
-
-- 🌱 I'm currently learning **I’m continuously sharpening my skills in System Design, Data Structures, and modern Web Frameworks.**
-
-- 👯 I'm looking to collaborate on **I’m open to collaborating on Java, Spring Boot, React, and REST API projects.**
-
-- 💬 Ask me about **Ask me about Java, Spring Boot, React.js, JavaScript, and MySQL.**
-
-- 📫 How to reach me **ayesha.fatima3315@gmail.com**
-
-- ⚡ Fun fact **I view every project as an opportunity to build seamless end-to-end digital experiences!**
-
-- 👨‍💻 All of my projects are available at **[https://ayeshafatima-portfolio.vercel.app/](https://ayeshafatima-portfolio.vercel.app/)**
-
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1zM_1jNiVPkG0R-2Psru_J0G9JUCTUngH/view?usp=sharing](https://drive.google.com/file/d/1zM_1jNiVPkG0R-2Psru_J0G9JUCTUngH/view?usp=sharing)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Ayesha3315" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Ayesha3315" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ayesha-fatima-3662bb402" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayesha-fatima-3662bb402" height="30" width="40" /></a>
-<a href="https://leetcode.com/AyeshaFatima3315" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="AyeshaFatima3315" height="30" width="40" /></a>
+<!-- 🌐 Connect & Social Badges -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayesha-fatima-3662bb402" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ayesha.fatima3315@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a></p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayesha3315&show_icons=true&locale=en&layout=compact" alt="Ayesha3315" /></p>
+### 👩‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayesha3315&show_icons=true&locale=en" alt="Ayesha3315" /></p>
+* 🎓 Studying **Information Technology**
+* 🚀 Passionate about **Java**, **Spring Boot**, and **Web Development**
+* 🛠️ Currently building full-stack applications and backend microservices
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayesha3315&" alt="Ayesha3315" /></p>
+---
 
+### 💻 Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</p>
+
+---
+
+### 📊 GitHub Activity & Streak
+
+<p align="left">
+ <img src="https://streak-stats.demolab.com?user=Ayesha3315&theme=dark&timezone=Asia/Kolkata&v=1" alt="Ayesha's GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ayesha3315&layout=compact&theme=dark" alt="Top Languages" width="48%" />
+</p>
