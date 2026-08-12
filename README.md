@@ -41,9 +41,9 @@
 
 ### 📊 GitHub Activity & Stats
 
-<p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ayesha3315&layout=compact&theme=dark" alt="Top Languages" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ayesha3315&show_icons=true&theme=dark" alt="Ayesha's GitHub Stats" width="48%" />
+<p align="center">
+  <img src="https://github-readme-stats-eight-nu.vercel.app/api/top-langs/?username=Ayesha3315&layout=donut&theme=dark" alt="Most Used Languages" width="48%" />
+  <img src="https://github-readme-stats-eight-nu.vercel.app/api?username=Ayesha3315&show_icons=true&theme=dark" alt="Ayesha's GitHub Stats" width="48%" />
 </p>
 
 <p align="center">
