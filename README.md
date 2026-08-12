@@ -39,9 +39,13 @@
 
 ---
 
-### 📊 GitHub Activity & Streak
+### 📊 GitHub Activity & Stats
 
 <p align="left">
- <img src="https://streak-stats.demolab.com?user=Ayesha3315&theme=dark&timezone=Asia/Kolkata&v=1" alt="Ayesha's GitHub Streak" width="48%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ayesha3315&layout=compact&theme=dark" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayesha3315&layout=compact&theme=dark" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayesha3315&show_icons=true&theme=dark" alt="Ayesha's GitHub Stats" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayesha3315&theme=react-dark" alt="Ayesha's GitHub Activity Graph" width="100%" />
 </p>
